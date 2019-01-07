@@ -7,6 +7,23 @@ remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 url: https://ucsb-cs48.github.io # the base hostname & protocol for your site
 baseurl: /s19  # the subpath of your site, e.g. "/blog"
 
+start_week: 1
+start_date: 2019-03-31 00:00:00.00-8:00
+num_weeks: 10
+extra_exam_week: true
+sections: "5pm,&nbsp;6pm,&nbsp;7pm"
+
+cal_dates: >
+  [
+    {"label":"S19 begins", "date":"2019-04-01" },
+    {"label":"Univ Holiday", "date":"2019-05-27" },
+    {"label":"S19 instruction ends", "date":"2019-06-07" },
+    {"label":"S19 finals start", "date":"2019-06-08" },
+    {"label":"S19 finals end", "date":"2019-06-14" },
+    {"label":"S19 qtr ends", "date":"2019-06-14" }
+  ]
+
+
 include:
   - _pages
 exclude:
