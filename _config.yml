@@ -67,9 +67,6 @@ collections:
   lectures:
     output: true
     permalink: /lectures/:path/
-  staff:
-    output: true
-    permalink: /staff/:path
 
 
 
@@ -121,12 +118,6 @@ defaults:
       type: info
     values:
       layout: handout
-  -
-    scope:
-     path: ""
-     type: staff
-    values:
-     layout: staff
 
   - scope:
      path: ""
