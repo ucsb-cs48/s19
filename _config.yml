@@ -31,7 +31,7 @@ exclude:
   - Gemfile
   - LICENSE
   - .bundle
-   - vendor
+  - vendor
    
 course: "CS48"
 qtr: "S19"
