@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 48, Winter 2019"
+title: "Syllabus, CMPSC 48, Spring 2019"
 layout: handout
 ready: false
 ---
@@ -9,13 +9,12 @@ ready: false
 Basic Facts
 -----------
 
-* **Instructor**:  [Phill Conrad](http://www.cs.ucsb.edu/~pconrad) (contact via Piazza)
-   * Use the "instructor messsage" feature to contact Prof. Conrad, as well as all TAs, Readers and Mentors
-* **Lecture**: 2pm-3:15pm MW. ROOM TBA. ATTENDANCE REQUIRED. 
+* **Instructor**:  [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz) (TODO: Fill in preferred contact method)
+* **Lecture**: {{site.lecture_day_time}} {{site.lecture_room}}
 * **TAs**: {{site.ta_list_full}} (contact via Piazza)
 * **Mentors**: {{site.mentors_list}} (contact via Piazza)
-* **Lab** (50 minute discussion section) Thursday {{site.sections}}, Phelps 3525. ATTENDANCE REQUIRED.                                         
-* Office Hours: See: <http://www.cs.ucsb.edu/~pconrad/ofchrs>  
+* **Lab** (50 minute discussion section) {{site.section_day}} {{site.sections}}, {{site.discussion_section_room}}.                                         
+* Office Hours: {{site.instructor_office_hours}}
 
 For course website links, visit the course Gauchospace site.
 
@@ -33,6 +32,8 @@ advanced library support; techniques for team-oriented design and
 development, testing and test-driven development, and software
 reliability and robustness. Students present and demonstrate final
 projects.
+
+</div>
 
 </div>
 
@@ -90,13 +91,7 @@ Notes sheets on exams
 More On Grading
 ---------------
 
-We'll have three exams--two midterms and a final. That part of the course will be traditional. And, there will be some traditional lab and homework assignments (and perhaps quizzes) where "everybody in the class does roughly the same thing"---those make up another 20% of your grade.
-
-Some homework assignments might be submitted on Gradescope, and those may have the option of submitting as a pair or as a group.  If you *choose* this option, you are making *one* submission for the pair or group, and everyone gets a grade based on that submission.  If you just work together as "homework buddies", you are not required to make a pair submission, but if you do, you both earn the same grade (even if you have an earlier submission in your submission history.)
-
-Note that, at the discretion of the instructor, part of one of the midterms, and/or part of the final exam may a "lab final", i.e. a set of exercises done in the laboratory setting under exam conditions.   The division of points between written final the lab final will be at the discretion of the instructor, and announced later in the quarter.
-
-The remaining part of your grade--the last 20%--comes from project points which are explained in more detail later in this syllabus.
+TBD
 
 </div>
 
@@ -106,8 +101,7 @@ The remaining part of your grade--the last 20%--comes from project points which 
 
 <div style="font-size: 120%;">
 
-Project Points
-==============
+# Project Points
 
 TBD
 
@@ -195,7 +189,7 @@ long line of students), then you lose the right to appeal your grade.
 &nbsp;
 </div>
 
-<div style="font-size: 120%;">
+<div style="font-size: 120%;" markdown="1">
 
 
 Accommodations for disabilities
