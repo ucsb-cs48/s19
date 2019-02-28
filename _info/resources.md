@@ -1,11 +1,8 @@
-<html>
-<head>
-<title>CS 48 Learning Resources</title>
-  <link rel="stylesheet" type="text/css" href="cs48.css" />
-  <style fprolloverstyle>a:hover { color: #FF0000; font-weight: bold }</style>
-</head>
-<body>
-<div id="container">
+---
+title: "Resources from CS48 W18"
+layout: default
+ready: true
+---
 
 <center>
 <h1>Computer Science 48</h1>
@@ -115,10 +112,10 @@
 
 <h3>Academic support services on campus</h3>
 <ul>
-  <li><a href=http://www.clas.ucsb.edu>Campus Learning Assistance Service (CLAS)</a> - tutoring and
+  <li><a href="http://www.clas.ucsb.edu">Campus Learning Assistance Service (CLAS)</a> - tutoring and
       academic skills development.</li>
-  <li><a href=http://career.ucsb.edu/>Career Services</a> - career counseling and related services.</li>
-  <li><a href=http://www.counseling.ucsb.edu>Counseling Services</a> -
+  <li><a href="http://career.ucsb.edu/">Career Services</a> - career counseling and related services.</li>
+  <li><a href="http://www.counseling.ucsb.edu">Counseling Services</a> -
       personal counseling, self-help information and connections to off-campus mental
       health resources.</li>
   <li><a href="http://dsp.sa.ucsb.edu">Disabled Students Program</a>
@@ -128,12 +125,4 @@
 <p>Engineering undergraduate students should visit their
    <a href="https://engineering.ucsb.edu/undergraduate">Undergraduate Studies Office</a>
    for general counseling matters, including progress checks.
-<p>
-<hr>
-    <div align=center>
-    <a href=index.html><strong>CS 48 homepage</strong></a>
-    </div>
-
-</div> <!-- id = "container" -->
-</body>
-</html>
+</p>

@@ -11,7 +11,14 @@ start_week: 1
 start_date: 2019-03-31 00:00:00.00-8:00
 num_weeks: 10
 extra_exam_week: true
-sections: "5pm,&nbsp;6pm,&nbsp;7pm"
+
+
+discussion_section_room: Phelps 3525
+lecture_room: Phelps 3526
+lecture_day_time: "MW 2pm-3:15pm"
+section_day: "Friday"
+sections: "11am,&nbsp;noon"
+instructor_office_hours: "TBD"
 
 cal_dates: >
   [

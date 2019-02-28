@@ -22,11 +22,11 @@ main_dropdown:
    title: Resources
    items:
      - title: Topics
-       url: /topic_list/
+       url: /topics/
      - title: Patterns
-       url: /patterns_list/
+       url: /patterns/
      - title: Standards
-       url: /standards_list/
+       url: /standards/
        
 offerings:
    title: S19
@@ -39,16 +39,16 @@ offerings:
 
 offering_links:
   - title: Hwk
-    url: /hwk_list/
+    url: /hwk/
     description: "Homework Assignments"
   - title: Project
-    url: /project_list/
+    url: /project/
     description: "Project"
   - title: Lab
-    url: /lab_list/
+    url: /lab/
     description: "Lab Assignments"
   - title: Exam
-    url: /exam_list/
+    url: /exam/
     description: "Exams"
   - title: Cal
     url: /info/calendar/
@@ -59,12 +59,12 @@ offering_links:
          url: /info/syllabus/
          description: "Syllabus"    
        - title: Info Pages
-         url: /info_list/
+         url: /info/
          description: "List of General Information Pages"
        - title: Office Hours	
          url: /info/office_hours/
        - title: Staff
-         url: /staff_list/
+         url: /staff/
   - title: Links
     dropdown:	 
        - title: Gauchospace
