@@ -6,12 +6,12 @@ remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-cs48.github.io # the base hostname & protocol for your site
 baseurl: /s19  # the subpath of your site, e.g. "/blog"
+github_url: https://github.com/ucsb-cs48/s19
 
 start_week: 1
-start_date: 2019-03-31 00:00:00.00-8:00
+start_date: 2019-03-31 
 num_weeks: 10
 extra_exam_week: true
-
 
 discussion_section_room: Phelps 3525
 lecture_room: Phelps 3526
@@ -19,6 +19,19 @@ lecture_day_time: "MW 2pm-3:15pm"
 section_day: "Friday"
 sections: "11am,&nbsp;noon"
 instructor_office_hours: "TBD"
+
+
+course: "CS48"
+qtr: "S19"
+qxx: "s19"
+quarter: "Spring 2019"
+piazza_url: https://piazza.com/
+gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=TBD
+github_org_name: ucsb-cs48-s19
+github_org_url: https://github.com/ucsb-cs48-s19
+slack_url: https://ucsb-cs48-s19.slack.com
+
+
 
 cal_dates: >
   [
@@ -40,13 +53,6 @@ exclude:
   - .bundle
   - vendor
    
-course: "CS48"
-qtr: "S19"
-qxx: "s19"
-quarter: "Spring 2019"
-
-github_url: https://github.com/ucsb-cs48/s19
-
 kramdown:
    parse_block_html: false
 

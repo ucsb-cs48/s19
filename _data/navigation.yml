@@ -78,7 +78,7 @@ offering_links:
          description: "Q&A Forum"
   - title: Github
     dropdown:
-       - title: ucsb-cs48-w19
-         url: https://github.com/ucsb-cs48-w19
+       - title: ucsb-cs48-s19
+         url: https://github.com/ucsb-cs48-s19
 
 
